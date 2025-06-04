@@ -65,6 +65,11 @@ flutter pub get
   url_launcher
   
   flutter_hooks (optional for refactor)
+
+
+
+
+  
   
 
 
@@ -81,5 +86,9 @@ This project is licensed under the MIT License.
   
 
 
+📱 Screenshots
 
-
+![Screenshot_20250604-230156 1](https://github.com/user-attachments/assets/ea34e717-a3e0-4629-b564-e42fa1d8859c)
+![Screenshot_20250604-230145 1](https://github.com/user-attachments/assets/4a99ec62-47d4-4d8f-8cb4-bd1370eebbeb)
+![Screenshot_20250604-225856 1](https://github.com/user-attachments/assets/bc7f8cf9-3a43-4101-a694-8358ff6f51d2)
+![Screenshot_20250604-225842 1](https://github.com/user-attachments/assets/0a613ff1-9465-4c2c-94ec-062d2a26c4cf)
