@@ -24,6 +24,10 @@ This is a Flutter demo application built using MVVM architecture and Riverpod fo
 
 - 📦 **State Management**:
   - Built using [Riverpod]
+
+https://github.com/user-attachments/assets/7923221d-c243-41a3-b989-86dbf5843610
+
+
   - Clean separation between services and UI
 
 
@@ -92,3 +96,7 @@ This project is licensed under the MIT License.
 ![Screenshot_20250604-230145 1](https://github.com/user-attachments/assets/4a99ec62-47d4-4d8f-8cb4-bd1370eebbeb)
 ![Screenshot_20250604-225856 1](https://github.com/user-attachments/assets/bc7f8cf9-3a43-4101-a694-8358ff6f51d2)
 ![Screenshot_20250604-225842 1](https://github.com/user-attachments/assets/0a613ff1-9465-4c2c-94ec-062d2a26c4cf)
+
+
+https://github.com/user-attachments/assets/e3124c50-2782-490f-b733-3cdcd1773ce6
+
